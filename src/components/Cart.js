@@ -27,7 +27,7 @@ const Cart = () => {
       </div>
       {shoppingCart.length>0?<div className='cart-summary'>
         <div className='summary'>
-          <h3>cart summary</h3>
+          <h3>Cart Summary</h3>
           <div className='total-items'>
             <div className='items'>Total Items</div>
             <div className='items-count'>{qty}</div>

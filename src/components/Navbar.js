@@ -6,7 +6,7 @@ const Navbar=()=>{
     return (
         <nav>
             <ul className="left">
-                <li><Link to="/">IndExpress</Link></li>
+                <li><Link to="/">Meenu Shop</Link></li>
             </ul>
             <ul className="right">
                 <li><Link to="/cart">
